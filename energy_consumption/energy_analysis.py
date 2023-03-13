@@ -3,7 +3,6 @@ Code Source: https://www.kaggle.com/code/gvaldata/time-series-forecasting-on-pow
 All rights to original creator. 
 '''
 
-
 #Importing libraries
 import pandas as pd
 import numpy as np

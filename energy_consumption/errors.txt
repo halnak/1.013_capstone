@@ -1,0 +1,419 @@
+Day 1 of month 1 missing hours set()
+Day 2 of month 1 missing hours set()
+Day 3 of month 1 missing hours set()
+Day 4 of month 1 missing hours set()
+Day 5 of month 1 missing hours set()
+Day 6 of month 1 missing hours set()
+Day 7 of month 1 missing hours {'3:35 PM'}
+Day 8 of month 1 missing hours {'3:35 PM'}
+Day 9 of month 1 missing hours {'9:22 AM', '3:35 PM', '8:30 AM', '2:10 PM', '8:10 AM'}
+Day 10 of month 1 missing hours {'9:22 AM', '3:35 PM', '8:30 AM', '2:10 PM', '8:10 AM'}
+Day 11 of month 1 missing hours {'9:22 AM', '3:35 PM', '8:30 AM', '2:10 PM', '8:10 AM'}
+Day 12 of month 1 missing hours {'9:22 AM', '3:35 PM', '8:30 AM', '2:10 PM', '8:10 AM'}
+Day 13 of month 1 missing hours {'9:22 AM', '11:20 AM', '3:35 PM', '8:30 AM', '10:25 AM', '2:10 PM', '8:10 AM', '9:40 AM', '10:45 AM'}
+Day 14 of month 1 missing hours {'9:22 AM', '11:20 AM', '3:35 PM', '8:30 AM', '10:25 AM', '2:10 PM', '8:10 AM', '9:40 AM', '10:45 AM'}
+Day 15 of month 1 missing hours {'9:22 AM', '11:37 AM', '11:20 AM', '2:53 PM', '3:35 PM', '8:30 AM', '10:25 AM', '2:10 PM', '8:10 AM', '7:09 PM', '7:55 PM', '9:40 AM', '10:45 AM'}
+Day 16 of month 1 missing hours {'9:22 AM', '11:37 AM', '11:20 AM', '2:53 PM', '5:40 PM', '3:35 PM', '6:25 PM', '8:30 AM', '10:25 AM', '2:10 PM', '8:10 AM', '11:15 AM', '7:09 PM', '12:12 PM', '7:55 PM', '10:45 AM', '9:40 AM', '11:42 AM'}
+Day 17 of month 1 missing hours {'9:22 AM', '2:53 PM', '3:35 PM', '8:30 AM', '2:10 PM', '11:15 AM', '9:40 AM', '11:37 AM', '5:40 PM', '10:25 AM', '11:25 AM', '8:10 AM', '7:09 PM', '12:12 PM', '7:55 PM', '11:42 AM', '11:45 AM', '1:25 PM', '6:25 PM', '11:20 AM', '12:40 PM', '10:45 AM'}
+Day 18 of month 1 missing hours {'9:22 AM', '2:53 PM', '3:35 PM', '8:30 AM', '2:10 PM', '6:19 PM', '11:15 AM', '2:20 PM', '9:40 AM', '11:37 AM', '5:40 PM', '10:10 AM', '10:25 AM', '11:25 AM', '8:10 AM', '1:10 PM', '7:09 PM', '12:12 PM', '7:55 PM', '11:42 AM', '11:45 AM', '1:25 PM', '1:48 PM', '6:25 PM', '11:20 AM', '12:40 PM', '10:45 AM'}
+Day 19 of month 1 missing hours {'9:22 AM', '2:53 PM', '3:35 PM', '8:30 AM', '2:10 PM', '6:19 PM', '11:15 AM', '2:20 PM', '9:40 AM', '11:37 AM', '5:40 PM', '10:10 AM', '10:25 AM', '11:25 AM', '8:10 AM', '1:10 PM', '7:09 PM', '12:12 PM', '7:55 PM', '11:42 AM', '11:45 AM', '1:25 PM', '1:48 PM', '6:25 PM', '8:46 AM', '11:20 AM', '12:40 PM', '10:45 AM'}
+Day 20 of month 1 missing hours {'9:22 AM', '2:53 PM', '3:35 PM', '8:30 AM', '2:10 PM', '6:19 PM', '11:15 AM', '2:20 PM', '9:40 AM', '11:37 AM', '5:40 PM', '10:10 AM', '10:25 AM', '11:25 AM', '8:10 AM', '1:10 PM', '7:09 PM', '12:12 PM', '7:55 PM', '11:42 AM', '11:45 AM', '1:25 PM', '1:48 PM', '6:25 PM', '8:46 AM', '11:20 AM', '12:40 PM', '10:45 AM'}
+Day 21 of month 1 missing hours {'9:22 AM', '2:53 PM', '3:35 PM', '8:30 AM', '2:10 PM', '6:19 PM', '11:15 AM', '2:20 PM', '9:40 AM', '11:37 AM', '5:40 PM', '10:10 AM', '10:25 AM', '11:25 AM', '8:10 AM', '1:10 PM', '7:09 PM', '12:12 PM', '7:55 PM', '11:42 AM', '11:45 AM', '1:25 PM', '1:48 PM', '6:25 PM', '8:46 AM', '11:20 AM', '12:40 PM', '10:45 AM'}
+Day 22 of month 1 missing hours {'9:22 AM', '2:53 PM', '3:35 PM', '8:30 AM', '2:10 PM', '6:19 PM', '11:15 AM', '2:49 PM', '2:20 PM', '9:40 AM', '11:37 AM', '12:06 PM', '5:40 PM', '10:10 AM', '10:25 AM', '11:25 AM', '8:10 AM', '1:10 PM', '7:09 PM', '12:12 PM', '7:55 PM', '11:42 AM', '11:45 AM', '1:25 PM', '1:48 PM', '6:25 PM', '8:46 AM', '11:20 AM', '12:40 PM', '10:45 AM'}
+Day 23 of month 1 missing hours {'9:22 AM', '2:53 PM', '3:35 PM', '8:30 AM', '2:10 PM', '6:19 PM', '11:15 AM', '2:49 PM', '2:20 PM', '9:40 AM', '8:25 AM', '11:37 AM', '12:06 PM', '5:40 PM', '10:10 AM', '8:52 AM', '10:25 AM', '11:25 AM', '8:10 AM', '1:10 PM', '7:09 PM', '12:12 PM', '7:55 PM', '9:52 AM', '11:42 AM', '11:45 AM', '3:15 AM', '1:25 PM', '1:48 PM', '6:25 PM', '8:46 AM', '10:50 AM', '11:20 AM', '12:40 PM', '9:42 AM', '10:45 AM'}      
+Day 24 of month 1 missing hours {'9:22 AM', '2:53 PM', '3:35 PM', '8:30 AM', '2:10 PM', '6:19 PM', '11:15 AM', '2:49 PM', '2:20 PM', '9:40 AM', '8:25 AM', '11:37 AM', '12:06 PM', '5:40 PM', '10:10 AM', '8:52 AM', '10:25 AM', '11:25 AM', '8:10 AM', '1:10 PM', '7:09 PM', '12:12 PM', '7:55 PM', '9:52 AM', '11:42 AM', '11:45 AM', '3:15 AM', '1:25 PM', '1:48 PM', '6:25 PM', '8:46 AM', '10:50 AM', '11:20 AM', '11:48 AM', '12:40 PM', '9:42 AM', '10:45 AM'}
+Day 25 of month 1 missing hours {'9:22 AM', '2:53 PM', '3:35 PM', '8:30 AM', '2:10 PM', '6:19 PM', '8:40 AM', '11:15 AM', '2:49 PM', '2:20 PM', '9:40 AM', '7:15 AM', '8:25 AM', '11:37 AM', '12:06 PM', '5:40 PM', '10:10 AM', '8:52 AM', '10:25 AM', '11:25 AM', '8:10 AM', '1:10 PM', '7:09 PM', '12:12 PM', '7:55 PM', '9:52 AM', '11:42 AM', '11:45 AM', '3:15 AM', '1:25 PM', '1:48 PM', '6:25 PM', '8:46 AM', '10:50 AM', '11:20 AM', '11:48 AM', '12:40 PM', '9:42 AM', '10:45 AM'}
+Day 26 of month 1 missing hours {'9:22 AM', '2:53 PM', '3:35 PM', '8:30 AM', '2:10 PM', '6:19 PM', '8:40 AM', '11:15 AM', '2:49 PM', '2:20 PM', '9:40 AM', '7:15 AM', '8:25 AM', '11:37 AM', '12:06 PM', '5:40 PM', '10:10 AM', '8:52 AM', '10:25 AM', '11:25 AM', '8:10 AM', '1:10 PM', '7:09 PM', '12:12 PM', '7:55 PM', '9:52 AM', '11:42 AM', '11:45 AM', '3:15 AM', '1:25 PM', '1:48 PM', '6:25 PM', '8:46 AM', '10:50 AM', '11:20 AM', '11:48 AM', '12:40 PM', '9:42 AM', '10:45 AM'}
+Day 27 of month 1 missing hours {'9:22 AM', '2:53 PM', '3:35 PM', '8:30 AM', '2:10 PM', '6:19 PM', '8:40 AM', '11:15 AM', '2:49 PM', '2:20 PM', '9:40 AM', '7:15 AM', '8:25 AM', '11:37 AM', '12:06 PM', '5:40 PM', '10:10 AM', '8:52 AM', '10:25 AM', '11:25 AM', '8:10 AM', '1:10 PM', '7:09 PM', '12:12 PM', '7:55 PM', '9:52 AM', '11:42 AM', '11:45 AM', '3:15 AM', '1:25 PM', '1:48 PM', '6:25 PM', '8:46 AM', '10:50 AM', '11:20 AM', '11:48 AM', '12:40 PM', '9:42 AM', '10:45 AM'}
+Day 28 of month 1 missing hours {'9:22 AM', '2:53 PM', '3:35 PM', '8:30 AM', '2:10 PM', '6:19 PM', '8:40 AM', '11:15 AM', '2:49 PM', '2:20 PM', '9:40 AM', '7:15 AM', '8:25 AM', '11:37 AM', '12:06 PM', '5:40 PM', '10:10 AM', '8:52 AM', '10:25 AM', '11:25 AM', '8:10 AM', '1:10 PM', '7:09 PM', '12:12 PM', '7:55 PM', '9:52 AM', '11:42 AM', '11:45 AM', '3:15 AM', '1:25 PM', '1:48 PM', '6:25 PM', '8:46 AM', '10:50 AM', '11:20 AM', '11:48 AM', '12:40 PM', '9:42 AM', '10:45 AM'}
+Day 29 of month 1 missing hours {'9:22 AM', '2:53 PM', '3:35 PM', '8:30 AM', '2:10 PM', '6:19 PM', '8:40 AM', '11:15 AM', '4:35 PM', '2:49 PM', '2:20 PM', '9:40 AM', '7:15 AM', '8:25 AM', '11:37 AM', '12:06 PM', '5:40 PM', '10:10 AM', '8:52 AM', '10:25 AM', '11:25 AM', '8:10 AM', '1:10 PM', '7:09 
+PM', '12:12 PM', '7:55 PM', '9:52 AM', '11:42 AM', '11:45 AM', '3:15 AM', '1:25 PM', '1:48 PM', '6:25 PM', '8:46 AM', '10:50 AM', '12:35 PM', '11:20 
+AM', '11:48 AM', '12:40 PM', '9:42 AM', '12:38 PM', '10:45 AM'}
+Day 30 of month 1 missing hours {'8:45 PM', '9:22 AM', '2:53 PM', '3:35 PM', '8:30 AM', '2:10 PM', '6:19 PM', '8:40 AM', '11:15 AM', '4:35 PM', '2:49 PM', '2:20 PM', '9:40 AM', '7:15 AM', '8:25 AM', '11:37 AM', '12:06 PM', '12:38 PM', '5:40 PM', '10:10 AM', '8:52 AM', '10:25 AM', '11:25 AM', '8:10 AM', '1:10 PM', '7:09 PM', '12:12 PM', '7:55 PM', '9:52 AM', '11:42 AM', '11:45 AM', '3:15 AM', '1:25 PM', '1:48 PM', '6:25 PM', '8:46 AM', '10:50 AM', '12:35 PM', '11:20 AM', '11:48 AM', '12:40 PM', '9:42 AM', '7:46 AM', '10:45 AM'}
+Day 31 of month 1 missing hours {'8:45 PM', '9:22 AM', '2:53 PM', '3:35 PM', '8:30 AM', '2:10 PM', '6:19 PM', '8:40 AM', '11:15 AM', '4:35 PM', '2:49 PM', '2:20 PM', '9:40 AM', '7:15 AM', '8:25 AM', '11:37 AM', '12:06 PM', '12:38 PM', '5:40 PM', '10:10 AM', '8:52 AM', '10:25 AM', '11:25 AM', '8:10 AM', '1:10 PM', '7:09 PM', '12:12 PM', '7:55 PM', '9:52 AM', '11:42 AM', '11:45 AM', '3:15 AM', '1:25 PM', '1:48 PM', '6:25 PM', '8:46 AM', '10:50 AM', '12:35 PM', '11:20 AM', '11:48 AM', '12:40 PM', '9:42 AM', '7:46 AM', '10:45 AM'}
+c:\Users\haley\1013\1.013_capstone\energy_consumption\weather_scraper.py:136: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['date'][i] = f'{month}/{day}/{year}'
+Day 1 of month 2 missing hours set()
+Day 2 of month 2 missing hours {'8:43 AM', '9:40 AM'}
+Day 3 of month 2 missing hours {'8:43 AM', '9:40 AM'}
+Day 4 of month 2 missing hours {'8:43 AM', '9:40 AM'}
+Day 5 of month 2 missing hours {'8:43 AM', '9:40 AM'}
+Day 6 of month 2 missing hours {'8:43 AM', '9:40 AM'}
+Day 7 of month 2 missing hours {'7:27 PM', '8:35 PM', '9:40 AM', '8:43 AM'}
+Day 8 of month 2 missing hours {'7:27 PM', '8:35 PM', '9:40 AM', '8:43 AM'}
+Day 9 of month 2 missing hours {'2:30 PM', '2:45 PM', '12:35 PM', '7:27 PM', '8:43 AM', '8:35 PM', '12:45 PM', '12:50 PM', '9:40 AM'}
+Day 10 of month 2 missing hours {'2:30 PM', '2:45 PM', '12:35 PM', '7:27 PM', '8:43 AM', '8:35 PM', '12:45 PM', '12:50 PM', '9:40 AM'}
+Day 11 of month 2 missing hours {'2:30 PM', '2:45 PM', '12:35 PM', '7:27 PM', '8:43 AM', '8:35 PM', '12:45 PM', '12:50 PM', '9:40 AM'}
+Day 14 of month 2 missing hours {'2:30 PM', '2:45 PM', '12:35 PM', '7:27 PM', '8:43 AM', '8:35 PM', '12:45 PM', '12:50 PM', '9:40 AM'}
+Day 15 of month 2 missing hours {'2:30 PM', '2:45 PM', '12:35 PM', '11:20 AM', '8:45 AM', '8:50 AM', '7:27 PM', '10:15 AM', '9:15 AM', '8:43 AM', '8:35 PM', '10:40 AM', '12:45 PM', '12:50 PM', '9:40 AM'}
+Day 16 of month 2 missing hours {'2:30 PM', '2:45 PM', '12:35 PM', '11:20 AM', '8:45 AM', '8:50 AM', '7:27 PM', '10:15 AM', '9:15 AM', '8:43 AM', '8:35 PM', '10:40 AM', '12:45 PM', '12:50 PM', '9:40 AM'}
+Day 17 of month 2 missing hours {'2:30 PM', '2:45 PM', '12:35 PM', '11:20 AM', '8:45 AM', '8:50 AM', '7:27 PM', '10:15 AM', '9:15 AM', '8:43 AM', '8:35 PM', '10:40 AM', '12:45 PM', '12:50 PM', '9:40 AM'}
+Day 18 of month 2 missing hours {'2:30 PM', '2:45 PM', '12:35 PM', '11:20 AM', '8:45 AM', '8:50 AM', '9:45 AM', '7:27 PM', '10:15 AM', '9:15 AM', '8:43 AM', '8:35 PM', '10:40 AM', '12:45 PM', '12:50 PM', '9:40 AM'}
+Day 19 of month 2 missing hours {'2:30 PM', '2:45 PM', '12:35 PM', '11:20 AM', '8:45 AM', '8:50 AM', '9:45 AM', '7:27 PM', '10:15 AM', '9:15 AM', '8:43 AM', '8:35 PM', '10:40 AM', '12:45 PM', '9:35 AM', '12:50 PM', '9:40 AM'}
+Day 20 of month 2 missing hours {'2:30 PM', '2:45 PM', '12:35 PM', '11:20 AM', '8:45 AM', '8:50 AM', '9:45 AM', '7:27 PM', '10:15 AM', '9:15 AM', '8:43 AM', '8:35 PM', '10:40 AM', '12:45 PM', '9:35 AM', '12:50 PM', '9:40 AM'}
+Day 21 of month 2 missing hours {'2:30 PM', '2:45 PM', '12:35 PM', '11:20 AM', '8:45 AM', '8:50 AM', '9:45 AM', '7:27 PM', '10:15 AM', '9:15 AM', '8:43 AM', '8:35 PM', '10:40 AM', '12:45 PM', '9:35 AM', '12:50 PM', '9:40 AM'}
+Day 23 of month 2 missing hours {'2:30 PM', '2:45 PM', '12:35 PM', '11:20 AM', '8:45 AM', '8:50 AM', '9:45 AM', '9:30 AM', '10:15 AM', '7:27 PM', '9:15 AM', '8:43 AM', '10:40 AM', '9:35 AM', '12:45 PM', '12:50 PM', '8:35 PM', '9:40 AM'}
+Day 24 of month 2 missing hours {'9:30 AM', '12:45 PM', '9:40 AM', '8:10 AM', '9:50 AM', '12:50 PM', '8:35 PM', '2:30 PM', '2:45 PM', '9:25 AM', '2:30 AM', '9:45 AM', '10:15 AM', '10:40 AM', '9:35 AM', '12:32 AM', '8:50 AM', '12:35 PM', '11:20 AM', '7:27 PM', '9:15 AM', '8:43 AM', '8:45 AM'}      
+Day 25 of month 2 missing hours {'9:30 AM', '12:45 PM', '9:40 AM', '8:10 AM', '9:50 AM', '12:50 PM', '8:35 PM', '2:30 PM', '2:45 PM', '9:25 AM', '2:30 AM', '9:45 AM', '10:15 AM', '10:40 AM', '9:35 AM', '12:32 AM', '8:50 AM', '12:35 PM', '11:20 AM', '7:27 PM', '9:15 AM', '8:43 AM', '8:45 AM'}      
+Day 27 of month 2 missing hours {'9:30 AM', '12:45 PM', '9:40 AM', '8:10 AM', '9:50 AM', '12:50 PM', '8:35 PM', '2:30 PM', '2:45 PM', '9:25 AM', '2:30 AM', '9:45 AM', '10:15 AM', '10:40 AM', '9:35 AM', '12:32 AM', '8:50 AM', '12:35 PM', '11:20 AM', '7:27 PM', '9:15 AM', '8:43 AM', '8:45 AM'}      
+Day 28 of month 2 missing hours {'9:30 AM', '12:45 PM', '9:40 AM', '11:25 AM', '8:10 AM', '9:50 AM', '12:50 PM', '8:35 PM', '2:30 PM', '2:45 PM', '9:25 AM', '2:30 AM', '9:45 AM', '10:15 AM', '10:40 AM', '9:35 AM', '12:32 AM', '8:50 AM', '12:35 PM', '11:20 AM', '7:27 PM', '9:15 AM', '8:43 AM', '8:45 AM'}
+Month 2 is missing days {'13', '12', '22', '26'}
+c:\Users\haley\1013\1.013_capstone\energy_consumption\weather_scraper.py:136: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['date'][i] = f'{month}/{day}/{year}'
+Day 1 of month 3 missing hours set()
+Day 3 of month 3 missing hours set()
+Day 6 of month 3 missing hours set()
+Day 7 of month 3 missing hours set()
+Day 8 of month 3 missing hours set()
+Day 9 of month 3 missing hours set()
+Day 10 of month 3 missing hours set()
+Day 11 of month 3 missing hours set()
+Day 12 of month 3 missing hours set()
+Day 13 of month 3 missing hours set()
+Day 14 of month 3 missing hours set()
+Day 15 of month 3 missing hours set()
+Day 16 of month 3 missing hours {'4:50 PM', '7:25 PM'}
+Day 17 of month 3 missing hours {'4:50 PM', '7:25 PM'}
+Day 18 of month 3 missing hours {'4:50 PM', '7:25 PM', '9:19 AM'}
+Day 19 of month 3 missing hours {'4:50 PM', '7:25 PM', '9:19 AM', '8:30 AM'}
+Day 20 of month 3 missing hours {'4:50 PM', '7:25 PM', '9:19 AM', '8:30 AM'}
+Day 21 of month 3 missing hours {'4:50 PM', '7:25 PM', '9:19 AM', '8:30 AM'}
+Day 22 of month 3 missing hours {'4:50 PM', '7:25 PM', '9:19 AM', '8:30 AM'}
+Day 23 of month 3 missing hours {'4:50 PM', '7:25 PM', '9:19 AM', '8:30 AM'}
+Day 24 of month 3 missing hours {'4:50 PM', '7:25 PM', '9:19 AM', '8:30 AM'}
+Day 25 of month 3 missing hours {'4:50 PM', '7:25 PM', '9:19 AM', '8:30 AM'}
+Day 26 of month 3 missing hours {'4:50 PM', '7:25 PM', '9:19 AM', '8:30 AM'}
+Day 27 of month 3 missing hours {'4:50 PM', '7:25 PM', '9:19 AM', '8:30 AM'}
+Day 28 of month 3 missing hours {'4:50 PM', '7:25 PM', '9:19 AM', '8:30 AM'}
+Day 29 of month 3 missing hours {'7:25 PM', '8:47 AM', '4:50 PM', '8:30 AM', '6:30 PM', '4:37 PM', '9:19 AM'}
+Day 30 of month 3 missing hours {'7:25 PM', '8:47 AM', '4:50 PM', '8:30 AM', '6:30 PM', '4:37 PM', '9:19 AM'}
+Day 31 of month 3 missing hours {'7:25 PM', '8:47 AM', '4:50 PM', '8:30 AM', '6:30 PM', '4:37 PM', '9:19 AM'}
+Month 3 is missing days {'2', '4', '5'}
+c:\Users\haley\1013\1.013_capstone\energy_consumption\weather_scraper.py:136: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['date'][i] = f'{month}/{day}/{year}'
+Day 1 of month 4 missing hours set()
+Day 2 of month 4 missing hours set()
+Day 3 of month 4 missing hours set()
+Day 4 of month 4 missing hours set()
+Day 5 of month 4 missing hours {'1:32 AM', '1:18 PM', '1:20 AM'}
+Day 6 of month 4 missing hours {'1:32 AM', '1:18 PM', '1:20 AM'}
+Day 7 of month 4 missing hours {'1:32 AM', '1:18 PM', '1:20 AM'}
+Day 8 of month 4 missing hours {'1:32 AM', '1:18 PM', '1:20 AM'}
+Day 9 of month 4 missing hours {'1:32 AM', '1:18 PM', '1:20 AM'}
+Day 10 of month 4 missing hours {'1:32 AM', '1:18 PM', '1:20 AM'}
+Day 11 of month 4 missing hours {'1:32 AM', '1:18 PM', '1:20 AM'}
+Day 12 of month 4 missing hours {'1:32 AM', '1:18 PM', '1:20 AM'}
+Day 13 of month 4 missing hours {'1:32 AM', '1:18 PM', '1:20 AM'}
+Day 14 of month 4 missing hours {'1:32 AM', '1:18 PM', '1:20 AM'}
+Day 15 of month 4 missing hours {'1:32 AM', '4:38 PM', '1:18 PM', '1:20 AM'}
+Day 16 of month 4 missing hours {'1:32 AM', '4:38 PM', '1:18 PM', '1:20 AM'}
+Day 17 of month 4 missing hours {'4:38 PM', '2:15 AM', '1:32 AM', '1:18 PM', '8:30 AM', '9:10 AM', '1:20 AM'}
+Day 18 of month 4 missing hours {'4:38 PM', '2:15 AM', '1:32 AM', '1:18 PM', '8:30 AM', '9:10 AM', '1:20 AM'}
+Day 19 of month 4 missing hours {'4:38 PM', '2:15 AM', '1:32 AM', '1:18 PM', '8:30 AM', '9:10 AM', '5:18 PM', '1:20 AM'}
+Day 20 of month 4 missing hours {'4:38 PM', '2:15 AM', '1:32 AM', '1:18 PM', '8:30 AM', '10:25 AM', '9:10 AM', '5:18 PM', '1:20 AM'}
+Day 21 of month 4 missing hours {'4:38 PM', '2:15 AM', '1:32 AM', '1:25 PM', '1:18 PM', '8:30 AM', '10:25 AM', '9:10 AM', '5:18 PM', '1:20 AM'}      
+Day 22 of month 4 missing hours {'4:38 PM', '2:15 AM', '1:32 AM', '1:25 PM', '1:18 PM', '8:30 AM', '10:25 AM', '9:10 AM', '5:18 PM', '1:20 AM'}
+Day 23 of month 4 missing hours {'4:38 PM', '2:15 AM', '1:32 AM', '1:25 PM', '1:18 PM', '8:30 AM', '10:25 AM', '9:10 AM', '5:18 PM', '1:20 AM'}      
+Day 24 of month 4 missing hours {'4:38 PM', '2:15 AM', '1:32 AM', '1:25 PM', '1:18 PM', '8:30 AM', '10:25 AM', '9:10 AM', '5:18 PM', '1:20 AM'}
+Day 25 of month 4 missing hours {'4:38 PM', '2:15 AM', '1:32 AM', '1:25 PM', '1:18 PM', '8:30 AM', '10:25 AM', '9:10 AM', '5:18 PM', '1:20 AM'}      
+Day 26 of month 4 missing hours {'4:38 PM', '2:15 AM', '1:32 AM', '1:25 PM', '1:18 PM', '8:30 AM', '10:25 AM', '9:10 AM', '5:18 PM', '1:20 AM'}      
+Day 27 of month 4 missing hours {'4:38 PM', '2:15 AM', '1:32 AM', '1:25 PM', '1:18 PM', '8:30 AM', '10:25 AM', '9:10 AM', '5:18 PM', '1:20 AM'}
+Day 28 of month 4 missing hours {'4:38 PM', '2:15 AM', '1:32 AM', '1:25 PM', '1:18 PM', '8:30 AM', '10:25 AM', '9:10 AM', '7:45 PM', '5:18 PM', '1:20 AM'}
+Day 29 of month 4 missing hours {'4:38 PM', '2:15 AM', '1:32 AM', '1:25 PM', '1:18 PM', '8:30 AM', '10:25 AM', '9:10 AM', '7:45 PM', '5:18 PM', '1:20 AM'}
+Day 30 of month 4 missing hours {'4:38 PM', '2:15 AM', '1:32 AM', '1:25 PM', '1:18 PM', '8:30 AM', '10:25 AM', '9:10 AM', '7:45 PM', '5:18 PM', '1:20 AM'}
+c:\Users\haley\1013\1.013_capstone\energy_consumption\weather_scraper.py:136: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['date'][i] = f'{month}/{day}/{year}'
+Day 1 of month 5 missing hours set()
+Day 2 of month 5 missing hours set()
+Day 3 of month 5 missing hours set()
+Day 4 of month 5 missing hours set()
+Day 5 of month 5 missing hours set()
+Day 6 of month 5 missing hours {'11:10 AM', '1:25 PM'}
+Day 7 of month 5 missing hours {'11:10 AM', '1:25 PM'}
+Day 8 of month 5 missing hours {'11:10 AM', '1:25 PM'}
+Day 9 of month 5 missing hours {'11:10 AM', '1:25 PM'}
+Day 10 of month 5 missing hours {'11:10 AM', '1:25 PM'}
+Day 11 of month 5 missing hours {'3:15 PM', '1:25 PM', '2:40 PM', '11:10 AM'}
+Day 12 of month 5 missing hours {'3:15 PM', '1:25 PM', '2:40 PM', '11:10 AM'}
+Day 13 of month 5 missing hours {'2:40 PM', '1:25 PM', '8:40 AM', '11:10 AM', '3:15 PM'}
+Day 14 of month 5 missing hours {'2:40 PM', '1:25 PM', '8:40 AM', '11:10 AM', '3:15 PM'}
+Day 15 of month 5 missing hours {'2:40 PM', '1:25 PM', '8:40 AM', '11:10 AM', '3:15 PM'}
+Day 16 of month 5 missing hours {'2:40 PM', '1:25 PM', '8:40 AM', '11:10 AM', '3:15 PM'}
+Day 17 of month 5 missing hours {'2:40 PM', '1:25 PM', '8:40 AM', '11:10 AM', '3:15 PM'}
+Day 18 of month 5 missing hours {'2:40 PM', '1:25 PM', '8:40 AM', '11:10 AM', '3:15 PM'}
+Day 19 of month 5 missing hours {'2:40 PM', '1:25 PM', '8:40 AM', '11:10 AM', '3:15 PM'}
+Day 20 of month 5 missing hours {'2:40 PM', '1:25 PM', '8:40 AM', '11:10 AM', '3:15 PM'}
+Day 21 of month 5 missing hours {'2:40 PM', '1:25 PM', '8:40 AM', '11:10 AM', '3:15 PM'}
+Day 22 of month 5 missing hours {'2:40 PM', '1:25 PM', '8:40 AM', '11:10 AM', '3:15 PM'}
+Day 23 of month 5 missing hours {'2:40 PM', '1:25 PM', '8:40 AM', '11:10 AM', '3:15 PM'}
+Day 24 of month 5 missing hours {'2:40 PM', '1:25 PM', '8:40 AM', '11:10 AM', '3:15 PM'}
+Day 25 of month 5 missing hours {'2:40 PM', '1:25 PM', '8:40 AM', '11:10 AM', '3:15 PM'}
+Day 26 of month 5 missing hours {'2:40 PM', '1:25 PM', '8:40 AM', '11:10 AM', '3:15 PM'}
+Day 27 of month 5 missing hours {'2:40 PM', '1:25 PM', '8:40 AM', '11:10 AM', '3:15 PM'}
+Day 28 of month 5 missing hours {'2:40 PM', '1:25 PM', '8:40 AM', '11:10 AM', '3:15 PM'}
+Day 29 of month 5 missing hours {'2:40 PM', '1:25 PM', '8:40 AM', '11:10 AM', '3:15 PM'}
+Day 30 of month 5 missing hours {'2:40 PM', '1:25 PM', '8:40 AM', '11:10 AM', '3:15 PM'}
+Day 31 of month 5 missing hours {'2:40 PM', '1:25 PM', '8:40 AM', '11:10 AM', '3:15 PM'}
+c:\Users\haley\1013\1.013_capstone\energy_consumption\weather_scraper.py:136: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['date'][i] = f'{month}/{day}/{year}'
+Day 1 of month 6 missing hours set()
+Day 2 of month 6 missing hours {'8:13 AM'}
+Day 3 of month 6 missing hours {'8:13 AM'}
+Day 4 of month 6 missing hours {'8:13 AM'}
+Day 5 of month 6 missing hours {'8:13 AM'}
+Day 6 of month 6 missing hours {'8:13 AM'}
+Day 7 of month 6 missing hours {'8:13 AM'}
+Day 8 of month 6 missing hours {'8:13 AM'}
+Day 9 of month 6 missing hours {'8:13 AM', '12:22 PM'}
+Day 10 of month 6 missing hours {'8:13 AM', '12:22 PM'}
+Day 11 of month 6 missing hours {'8:13 AM', '12:22 PM'}
+Day 12 of month 6 missing hours {'8:13 AM', '12:22 PM'}
+Day 13 of month 6 missing hours {'8:13 AM', '12:22 PM'}
+Day 14 of month 6 missing hours {'8:13 AM', '12:22 PM'}
+Day 15 of month 6 missing hours {'8:13 AM', '12:22 PM'}
+Day 16 of month 6 missing hours {'8:13 AM', '12:22 PM'}
+Day 17 of month 6 missing hours {'8:13 AM', '12:22 PM'}
+Day 18 of month 6 missing hours {'8:13 AM', '12:15 PM', '1:40 PM', '12:22 PM'}
+Day 19 of month 6 missing hours {'12:22 PM', '1:40 PM', '4:15 PM', '8:13 AM', '12:15 PM'}
+Day 20 of month 6 missing hours {'12:22 PM', '1:40 PM', '4:15 PM', '8:13 AM', '12:15 PM'}
+Day 21 of month 6 missing hours {'12:22 PM', '1:40 PM', '4:15 PM', '8:13 AM', '12:15 PM'}
+Day 22 of month 6 missing hours {'12:22 PM', '1:40 PM', '4:15 PM', '8:13 AM', '12:15 PM'}
+Day 23 of month 6 missing hours {'12:22 PM', '1:40 PM', '4:15 PM', '8:13 AM', '12:15 PM'}
+Day 24 of month 6 missing hours {'12:22 PM', '1:40 PM', '4:15 PM', '8:13 AM', '12:15 PM'}
+Day 25 of month 6 missing hours {'12:22 PM', '1:40 PM', '4:15 PM', '8:13 AM', '12:15 PM'}
+Day 26 of month 6 missing hours {'12:22 PM', '1:40 PM', '4:15 PM', '8:13 AM', '12:15 PM'}
+Day 27 of month 6 missing hours {'12:22 PM', '1:40 PM', '4:15 PM', '8:13 AM', '12:15 PM'}
+Day 28 of month 6 missing hours {'12:22 PM', '1:40 PM', '4:15 PM', '8:13 AM', '12:15 PM'}
+Day 29 of month 6 missing hours {'12:22 PM', '1:40 PM', '1:25 PM', '4:15 PM', '8:13 AM', '12:15 PM', '5:25 PM'}
+Day 30 of month 6 missing hours {'12:22 PM', '1:40 PM', '1:25 PM', '4:15 PM', '5:25 PM', '8:13 AM', '12:15 PM', '4:43 PM'}
+c:\Users\haley\1013\1.013_capstone\energy_consumption\weather_scraper.py:136: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['date'][i] = f'{month}/{day}/{year}'
+Day 1 of month 7 missing hours set()
+Day 2 of month 7 missing hours set()
+Day 3 of month 7 missing hours set()
+Day 4 of month 7 missing hours set()
+Day 5 of month 7 missing hours set()
+Day 6 of month 7 missing hours set()
+Day 7 of month 7 missing hours set()
+Day 8 of month 7 missing hours set()
+Day 9 of month 7 missing hours {'11:45 AM'}
+Day 10 of month 7 missing hours {'11:45 AM'}
+Day 11 of month 7 missing hours {'11:45 AM', '8:30 PM'}
+Day 12 of month 7 missing hours {'11:45 AM', '8:30 PM'}
+Day 13 of month 7 missing hours {'11:45 AM', '8:30 PM'}
+Day 14 of month 7 missing hours {'11:45 AM', '8:30 PM'}
+Day 15 of month 7 missing hours {'11:45 AM', '9:47 PM', '8:30 PM', '8:48 AM', '10:36 AM'}
+Day 16 of month 7 missing hours {'11:45 AM', '9:47 PM', '8:30 PM', '8:48 AM', '10:36 AM'}
+Day 17 of month 7 missing hours {'11:45 AM', '9:47 PM', '8:30 PM', '8:48 AM', '10:36 AM'}
+Day 18 of month 7 missing hours {'11:45 AM', '9:47 PM', '8:30 PM', '8:48 AM', '10:36 AM'}
+Day 19 of month 7 missing hours {'6:40 PM', '11:45 AM', '9:47 PM', '5:48 PM', '8:30 PM', '8:48 AM', '10:36 AM'}
+Day 20 of month 7 missing hours {'6:40 PM', '11:45 AM', '10:30 AM', '9:47 PM', '5:48 PM', '8:30 PM', '8:48 AM', '10:36 AM'}
+Day 21 of month 7 missing hours {'6:40 PM', '11:45 AM', '10:30 AM', '9:47 PM', '5:48 PM', '8:30 PM', '8:48 AM', '10:36 AM'}
+Day 22 of month 7 missing hours {'6:40 PM', '11:45 AM', '10:30 AM', '9:47 PM', '8:36 AM', '8:20 PM', '5:48 PM', '8:30 PM', '8:48 AM', '10:36 AM'}
+Day 23 of month 7 missing hours {'1:40 PM', '6:40 PM', '11:45 AM', '10:30 AM', '9:47 PM', '8:36 AM', '8:20 PM', '5:48 PM', '8:30 PM', '7:15 PM', '8:48 AM', '10:36 AM', '10:35 AM'}
+Day 24 of month 7 missing hours {'1:40 PM', '6:40 PM', '11:45 AM', '10:30 AM', '9:47 PM', '8:36 AM', '8:30 AM', '10:25 AM', '8:20 PM', '5:48 PM', '8:30 PM', '7:15 PM', '8:48 AM', '10:36 AM', '10:35 AM'}
+Day 25 of month 7 missing hours {'1:40 PM', '6:40 PM', '11:45 AM', '10:30 AM', '9:47 PM', '8:36 AM', '8:30 AM', '10:25 AM', '8:20 PM', '5:48 PM', '8:30 PM', '7:15 PM', '8:48 AM', '10:36 AM', '10:35 AM'}
+Day 26 of month 7 missing hours {'1:40 PM', '6:40 PM', '11:45 AM', '10:30 AM', '9:47 PM', '8:36 AM', '8:30 AM', '10:25 AM', '8:20 PM', '5:48 PM', '10:36 AM', '8:30 PM', '7:15 PM', '8:48 AM', '8:23 PM', '10:35 AM'}
+Day 27 of month 7 missing hours {'1:40 PM', '6:40 PM', '11:45 AM', '10:30 AM', '9:47 PM', '8:36 AM', '8:30 AM', '10:25 AM', '8:20 PM', '5:48 PM', '10:36 AM', '8:30 PM', '7:15 PM', '8:48 AM', '8:23 PM', '10:35 AM'}
+Day 28 of month 7 missing hours {'1:40 PM', '6:40 PM', '11:45 AM', '10:30 AM', '9:47 PM', '8:36 AM', '8:30 AM', '10:25 AM', '8:20 PM', '5:48 PM', '10:36 AM', '8:30 PM', '7:15 PM', '8:48 AM', '8:23 PM', '10:35 AM'}
+Day 29 of month 7 missing hours {'1:40 PM', '6:40 PM', '11:45 AM', '10:30 AM', '9:47 PM', '8:36 AM', '8:30 AM', '10:25 AM', '8:20 PM', '5:48 PM', '10:36 AM', '8:30 PM', '7:15 PM', '8:48 AM', '8:23 PM', '10:35 AM'}
+Day 30 of month 7 missing hours {'1:40 PM', '6:40 PM', '2:40 PM', '11:45 AM', '10:30 AM', '9:47 PM', '8:36 AM', '8:30 AM', '12:26 PM', '10:25 AM', '8:20 PM', '5:48 PM', '10:36 AM', '8:30 PM', '7:15 PM', '8:48 AM', '8:23 PM', '10:35 AM'}
+Month 7 is missing days {'31'}
+c:\Users\haley\1013\1.013_capstone\energy_consumption\weather_scraper.py:136: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['date'][i] = f'{month}/{day}/{year}'
+Day 1 of month 8 missing hours set()
+Day 2 of month 8 missing hours set()
+Day 3 of month 8 missing hours {'9:15 PM'}
+Day 4 of month 8 missing hours {'7:32 PM', '8:45 PM', '7:22 PM', '9:15 PM'}
+Day 5 of month 8 missing hours {'8:45 PM', '10:33 AM', '9:15 PM', '9:42 AM', '7:22 PM', '7:32 PM'}
+Day 6 of month 8 missing hours {'8:45 PM', '10:33 AM', '9:15 PM', '9:42 AM', '7:22 PM', '7:32 PM'}
+Day 7 of month 8 missing hours {'8:45 PM', '10:33 AM', '9:15 PM', '9:42 AM', '7:22 PM', '7:32 PM'}
+Day 8 of month 8 missing hours {'8:45 PM', '10:33 AM', '7:50 PM', '9:15 PM', '9:42 AM', '7:22 PM', '7:32 PM'}
+Day 9 of month 8 missing hours {'8:45 PM', '10:33 AM', '7:50 PM', '9:15 PM', '9:42 AM', '10:40 PM', '7:22 PM', '7:32 PM'}
+Day 10 of month 8 missing hours {'8:45 PM', '10:33 AM', '7:50 PM', '9:15 PM', '9:42 AM', '10:40 PM', '7:22 PM', '7:32 PM'}
+Day 11 of month 8 missing hours {'8:45 PM', '10:33 AM', '7:50 PM', '9:15 PM', '9:42 AM', '10:40 PM', '7:22 PM', '7:32 PM'}
+Day 12 of month 8 missing hours {'8:45 PM', '10:33 AM', '7:50 PM', '9:15 PM', '9:42 AM', '10:40 PM', '7:22 PM', '7:32 PM'}
+Day 13 of month 8 missing hours {'8:45 PM', '10:33 AM', '7:50 PM', '9:15 PM', '9:42 AM', '10:40 PM', '7:22 PM', '7:32 PM'}
+Day 14 of month 8 missing hours {'8:45 PM', '10:33 AM', '7:50 PM', '9:15 PM', nan, '9:42 AM', '10:40 PM', '7:22 PM', '7:32 PM'}
+Day 15 of month 8 missing hours {'8:45 PM', '10:33 AM', '7:50 PM', '9:15 PM', nan, '9:42 AM', '10:40 PM', '7:22 PM', '7:32 PM'}
+Day 16 of month 8 missing hours {'8:45 PM', '10:33 AM', '7:50 PM', '9:15 PM', nan, '9:42 AM', '10:40 PM', '7:22 PM', '7:32 PM'}
+Day 17 of month 8 missing hours {'8:45 PM', '10:33 AM', '7:50 PM', '9:15 PM', nan, '9:42 AM', '10:40 PM', '7:22 PM', '7:32 PM'}
+Day 18 of month 8 missing hours {'8:45 PM', '10:33 AM', '7:50 PM', '9:15 PM', nan, '9:42 AM', '10:40 PM', '7:22 PM', '7:32 PM'}
+Day 19 of month 8 missing hours {'8:45 PM', '10:33 AM', '7:50 PM', '9:15 PM', nan, '9:42 AM', '10:40 PM', '7:22 PM', '7:32 PM'}
+Day 20 of month 8 missing hours {'8:45 PM', '10:33 AM', '7:50 PM', '9:15 PM', nan, '9:42 AM', '10:40 PM', '7:22 PM', '7:32 PM'}
+Day 21 of month 8 missing hours {'8:45 PM', '10:33 AM', '7:50 PM', '9:15 PM', nan, '9:42 AM', '10:40 PM', '7:22 PM', '7:32 PM'}
+Day 22 of month 8 missing hours {'8:45 PM', '10:33 AM', '7:50 PM', '9:15 PM', nan, '9:42 AM', '10:40 PM', '7:22 PM', '7:32 PM'}
+Day 23 of month 8 missing hours {'2:30 PM', '8:45 PM', '10:33 AM', '7:50 PM', '9:15 PM', nan, '1:25 PM', '4:50 PM', '9:42 AM', '1:15 PM', '10:40 PM', '1:50 PM', '3:15 PM', '7:22 PM', '7:32 PM'}
+Day 24 of month 8 missing hours {'2:30 PM', '8:45 PM', '10:33 AM', '7:50 PM', '9:15 PM', nan, '1:25 PM', '4:50 PM', '9:45 AM', '9:42 AM', '1:15 PM', 
+'10:40 PM', '1:50 PM', '4:33 PM', '6:50 PM', '3:15 PM', '7:22 PM', '7:32 PM'}
+Day 25 of month 8 missing hours {'8:45 PM', '10:33 AM', nan, '1:15 PM', '10:40 PM', '1:50 PM', '3:15 PM', '9:15 PM', '8:33 PM', '2:30 PM', '1:20 PM', '1:25 PM', '9:45 AM', '4:33 PM', '6:50 PM', '7:22 PM', '7:32 PM', '7:50 PM', '10:22 AM', '4:50 PM', '9:42 AM'}
+Day 26 of month 8 missing hours {'8:45 PM', '10:33 AM', nan, '1:15 PM', '10:40 PM', '1:50 PM', '5:10 PM', '3:15 PM', '9:15 PM', '8:33 PM', '2:30 PM', '1:20 PM', '1:25 PM', '9:45 AM', '4:33 PM', '6:50 PM', '7:22 PM', '7:32 PM', '7:50 PM', '10:22 AM', '4:50 PM', '9:42 AM'}
+Day 27 of month 8 missing hours {'8:45 PM', '10:33 AM', nan, '1:15 PM', '10:40 PM', '1:50 PM', '5:10 PM', '3:15 PM', '9:15 PM', '8:33 PM', '2:30 PM', '1:20 PM', '1:25 PM', '9:45 AM', '4:33 PM', '6:50 PM', '7:22 PM', '7:32 PM', '7:50 PM', '10:22 AM', '4:50 PM', '9:42 AM'}
+Day 28 of month 8 missing hours {'8:45 PM', '10:33 AM', nan, '1:15 PM', '10:40 PM', '1:50 PM', '5:10 PM', '3:15 PM', '9:15 PM', '8:33 PM', '2:30 PM', '1:20 PM', '1:25 PM', '9:45 AM', '4:33 PM', '6:50 PM', '7:22 PM', '7:32 PM', '7:50 PM', '10:22 AM', '4:50 PM', '9:42 AM'}
+Day 29 of month 8 missing hours {'8:45 PM', '10:33 AM', nan, '1:15 PM', '10:40 PM', '1:50 PM', '5:10 PM', '3:15 PM', '9:15 PM', '8:33 PM', '2:30 PM', '1:20 PM', '1:25 PM', '9:45 AM', '4:33 PM', '6:50 PM', '7:22 PM', '7:32 PM', '7:50 PM', '10:22 AM', '4:50 PM', '9:42 AM'}
+Day 30 of month 8 missing hours {'8:45 PM', '10:33 AM', nan, '1:15 PM', '10:40 PM', '1:50 PM', '5:10 PM', '3:15 PM', '9:15 PM', '8:33 PM', '2:30 PM', '1:20 PM', '1:25 PM', '9:45 AM', '4:33 PM', '6:50 PM', '7:22 PM', '7:32 PM', '7:50 PM', '10:22 AM', '4:50 PM', '9:42 AM'}
+Day 31 of month 8 missing hours {'8:45 PM', '10:33 AM', nan, '1:15 PM', '10:40 PM', '1:50 PM', '5:10 PM', '3:15 PM', '9:15 PM', '8:33 PM', '2:30 PM', '1:20 PM', '1:25 PM', '9:45 AM', '4:33 PM', '6:50 PM', '7:22 PM', '7:32 PM', '7:50 PM', '10:22 AM', '4:50 PM', '9:42 AM'}
+c:\Users\haley\1013\1.013_capstone\energy_consumption\weather_scraper.py:136: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['date'][i] = f'{month}/{day}/{year}'
+Day 1 of month 9 missing hours set()
+Day 2 of month 9 missing hours {'8:20 AM', '10:10 AM', '6:47 PM'}
+Day 3 of month 9 missing hours {'8:20 AM', '10:10 AM', '6:47 PM', '1:23 PM'}
+Day 4 of month 9 missing hours {'8:20 AM', '10:10 AM', '6:47 PM', '1:23 PM'}
+Day 5 of month 9 missing hours {'8:20 AM', '10:10 AM', '6:47 PM', '1:23 PM'}
+Day 6 of month 9 missing hours {'8:20 AM', '10:10 AM', '6:47 PM', '1:23 PM'}
+Day 7 of month 9 missing hours {'1:23 PM', '10:10 AM', '4:22 PM', '6:47 PM', '8:20 AM', '3:43 PM'}
+Day 8 of month 9 missing hours {'1:23 PM', '10:10 AM', '4:22 PM', '6:47 PM', '8:20 AM', '4:10 PM', '3:43 PM'}
+Day 9 of month 9 missing hours {'1:23 PM', '10:10 AM', '4:22 PM', '6:16 PM', '6:47 PM', '8:20 AM', '4:10 PM', '3:43 PM'}
+Day 10 of month 9 missing hours {'1:23 PM', '10:10 AM', '4:22 PM', '6:16 PM', '6:47 PM', '8:20 AM', '4:10 PM', '8:50 AM', '3:43 PM'}
+Day 11 of month 9 missing hours {'1:23 PM', '10:10 AM', '4:22 PM', '6:16 PM', '6:47 PM', '8:20 AM', '4:10 PM', '8:50 AM', '3:43 PM'}
+Day 12 of month 9 missing hours {'1:23 PM', '10:10 AM', '4:22 PM', '6:16 PM', '6:47 PM', '8:20 AM', '4:10 PM', '8:50 AM', '3:43 PM'}
+Day 13 of month 9 missing hours {'1:23 PM', '10:10 AM', '4:22 PM', '6:16 PM', '6:47 PM', '8:20 AM', '4:10 PM', '8:50 AM', '3:43 PM'}
+Day 14 of month 9 missing hours {'1:23 PM', '10:10 AM', '8:30 AM', '4:22 PM', '6:16 PM', '6:47 PM', '8:20 AM', '4:10 PM', '8:50 AM', '6:49 AM', '3:43 PM'}
+Day 15 of month 9 missing hours {'1:23 PM', '10:10 AM', '8:30 AM', '4:22 PM', '6:16 PM', '8:21 AM', '6:47 PM', '8:20 AM', '4:10 PM', '7:40 AM', '8:50 AM', '6:49 AM', '3:43 PM'}
+Day 16 of month 9 missing hours {'1:23 PM', '10:10 AM', '8:30 AM', '4:22 PM', '6:16 PM', '8:21 AM', '6:47 PM', '9:38 AM', '8:20 AM', '4:10 PM', '7:40 AM', '8:50 AM', '6:49 AM', '3:43 PM'}
+Day 17 of month 9 missing hours {'1:23 PM', '10:10 AM', '8:30 AM', '4:22 PM', '6:16 PM', '8:21 AM', '6:47 PM', '9:38 AM', '8:20 AM', '4:10 PM', '7:40 AM', '8:50 AM', '6:49 AM', '3:43 PM'}
+Day 18 of month 9 missing hours {'1:23 PM', '10:10 AM', '8:30 AM', '4:22 PM', '6:16 PM', '8:21 AM', '6:47 PM', '9:38 AM', '8:20 AM', '4:10 PM', '7:40 AM', '8:50 AM', '6:49 AM', '3:43 PM'}
+Day 19 of month 9 missing hours {'1:23 PM', '8:50 AM', '10:10 AM', '7:45 AM', '8:30 AM', '4:22 PM', '6:16 PM', '6:47 PM', '8:21 AM', '9:38 AM', '8:20 AM', '4:10 PM', '7:40 AM', '9:40 AM', '6:49 AM', '3:43 PM'}
+Day 20 of month 9 missing hours {'1:23 PM', '8:50 AM', '10:10 AM', '7:45 AM', '8:30 AM', '4:22 PM', '6:16 PM', '6:47 PM', '8:21 AM', '9:38 AM', '8:20 AM', '4:10 PM', '7:40 AM', '9:40 AM', '6:49 AM', '3:43 PM'}
+Day 21 of month 9 missing hours {'1:23 PM', '8:50 AM', '10:10 AM', '7:45 AM', '8:30 AM', '4:22 PM', '6:16 PM', '6:47 PM', '8:21 AM', '9:38 AM', '8:20 AM', '4:10 PM', '7:40 AM', '9:40 AM', '6:49 AM', '3:43 PM'}
+Day 22 of month 9 missing hours {'1:23 PM', '8:50 AM', '10:10 AM', '9:45 AM', '7:45 AM', '8:30 AM', '4:22 PM', '6:16 PM', '6:47 PM', '8:21 AM', '9:38 AM', '8:20 AM', '4:10 PM', '7:40 AM', '9:40 AM', '6:49 AM', '3:43 PM'}
+Day 23 of month 9 missing hours {'1:23 PM', '8:30 AM', '6:47 PM', '9:40 AM', '10:10 AM', '8:40 PM', '8:21 AM', '9:38 AM', '4:10 PM', '6:49 AM', '9:45 AM', '7:45 AM', '8:20 AM', '8:50 AM', '3:43 PM', '5:45 PM', '4:22 PM', '6:16 PM', '7:40 AM'}
+Day 24 of month 9 missing hours {'1:23 PM', '8:30 AM', '6:47 PM', '9:40 AM', '10:10 AM', '8:40 PM', '8:21 AM', '9:38 AM', '4:10 PM', '6:49 AM', '9:45 AM', '7:45 AM', '8:20 AM', '8:50 AM', '3:43 PM', '5:45 PM', '4:22 PM', '6:16 PM', '7:40 AM'}
+Day 25 of month 9 missing hours {'1:23 PM', '8:30 AM', '6:47 PM', '9:40 AM', '10:10 AM', '8:40 PM', '8:21 AM', '9:38 AM', '4:10 PM', '6:49 AM', '9:45 AM', '7:45 AM', '8:20 AM', '8:50 AM', '8:28 AM', '3:43 PM', '5:45 PM', '4:22 PM', '6:16 PM', '7:40 AM'}
+Day 26 of month 9 missing hours {'1:23 PM', '8:30 AM', '6:47 PM', '9:40 AM', '10:10 AM', '8:40 PM', '8:21 AM', '9:38 AM', '4:10 PM', '6:49 AM', '9:45 AM', '7:45 AM', '8:20 AM', '8:50 AM', '8:28 AM', '3:43 PM', '5:45 PM', '4:22 PM', '6:16 PM', '7:40 AM'}
+Day 27 of month 9 missing hours {'1:23 PM', '8:30 AM', '6:47 PM', '9:40 AM', '10:10 AM', '8:40 PM', '8:21 AM', '9:38 AM', '4:10 PM', '6:49 AM', '9:45 AM', '7:45 AM', '8:20 AM', '8:50 AM', '8:28 AM', '3:43 PM', '5:45 PM', '4:22 PM', '6:16 PM', '7:40 AM'}
+Day 28 of month 9 missing hours {'1:23 PM', '8:30 AM', '6:47 PM', '9:40 AM', '10:10 AM', '8:40 PM', '8:21 AM', '9:38 AM', '4:10 PM', '6:49 AM', '9:45 AM', '7:45 AM', '8:20 AM', '8:50 AM', '8:28 AM', '3:43 PM', '5:45 PM', '2:50 PM', '4:22 PM', '6:16 PM', '7:40 AM'}
+Day 29 of month 9 missing hours {'1:23 PM', '8:30 AM', '6:47 PM', '9:40 AM', '10:10 AM', '8:40 PM', '8:21 AM', '9:38 AM', '4:10 PM', '6:49 AM', '9:45 AM', '10:30 AM', '7:45 AM', '8:20 AM', '8:50 AM', '8:28 AM', '3:43 PM', '5:45 PM', '2:50 PM', '4:22 PM', '6:16 PM', '7:40 AM'}
+Day 30 of month 9 missing hours {'1:23 PM', '8:30 AM', '6:47 PM', '9:40 AM', '10:10 AM', '8:40 PM', '8:21 AM', '9:38 AM', '4:10 PM', '6:49 AM', '9:45 AM', '10:30 AM', '7:45 AM', '8:20 AM', '8:50 AM', '8:28 AM', '3:43 PM', '5:45 PM', '2:50 PM', '4:22 PM', '6:16 PM', '7:40 AM'}
+c:\Users\haley\1013\1.013_capstone\energy_consumption\weather_scraper.py:136: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['date'][i] = f'{month}/{day}/{year}'
+Day 1 of month 10 missing hours set()
+Day 2 of month 10 missing hours {'12:30 PM'}
+Day 3 of month 10 missing hours {'2:50 PM', '12:30 PM', '3:20 PM'}
+Day 4 of month 10 missing hours {'2:30 PM', '2:50 PM', '12:30 PM', '3:20 PM'}
+Day 5 of month 10 missing hours {'2:30 PM', '2:50 PM', '12:30 PM', '3:20 PM'}
+Day 6 of month 10 missing hours {'2:30 PM', '2:50 PM', '12:30 PM', '3:20 PM', '2:20 PM'}
+Day 7 of month 10 missing hours {'2:30 PM', '2:50 PM', '12:30 PM', '3:20 PM', '2:20 PM'}
+Day 8 of month 10 missing hours {'2:30 PM', '2:50 PM', '12:30 PM', '3:20 PM', '8:45 AM', '2:20 PM'}
+Day 9 of month 10 missing hours {'2:30 PM', '2:50 PM', '12:30 PM', '3:20 PM', '8:45 AM', '2:20 PM'}
+Day 10 of month 10 missing hours {'2:30 PM', '2:50 PM', '10:40 AM', '12:30 PM', '3:20 PM', '8:45 AM', '2:20 PM'}
+Day 11 of month 10 missing hours {'2:30 PM', '2:50 PM', '10:40 AM', '12:30 PM', '3:20 PM', '8:45 AM', '2:20 PM'}
+Day 12 of month 10 missing hours {'2:30 PM', '2:50 PM', '10:40 AM', '12:30 PM', '3:20 PM', '8:45 AM', '2:20 PM'}
+Day 13 of month 10 missing hours {'2:30 PM', '2:50 PM', '10:40 AM', '12:30 PM', '3:20 PM', '8:45 AM', '2:20 PM'}
+Day 14 of month 10 missing hours {'2:30 PM', '2:50 PM', '10:40 AM', '12:30 PM', '3:20 PM', '8:45 AM', '2:20 PM'}
+Day 15 of month 10 missing hours {'2:30 PM', '2:50 PM', '10:40 AM', '12:30 PM', '3:20 PM', '8:45 AM', '2:20 PM'}
+Day 16 of month 10 missing hours {'2:30 PM', '9:25 AM', '8:15 AM', '2:50 PM', '10:40 AM', '7:40 AM', '9:35 AM', '12:30 PM', '3:20 PM', '8:45 AM', '2:20 PM'}
+Day 17 of month 10 missing hours {'2:30 PM', '1:21 AM', '9:25 AM', '8:15 AM', '2:50 PM', '10:40 AM', '7:40 AM', '9:35 AM', '12:30 PM', '3:20 PM', '8:45 AM', '2:20 PM'}
+Day 18 of month 10 missing hours {'2:30 PM', '1:21 AM', '9:25 AM', '8:15 AM', '2:50 PM', '10:40 AM', '7:40 AM', '9:35 AM', '12:30 PM', '3:20 PM', '8:45 AM', '2:20 PM'}
+Day 19 of month 10 missing hours {'2:30 PM', '9:25 AM', '1:21 AM', '8:15 AM', '2:50 PM', '10:30 AM', '9:30 AM', '9:15 AM', '8:30 AM', '8:40 AM', '10:40 AM', '7:40 AM', '9:35 AM', '8:20 AM', '12:30 PM', '3:20 PM', '8:45 AM', '2:20 PM'}
+Day 20 of month 10 missing hours {'9:30 AM', '8:30 AM', '8:40 AM', '2:20 PM', '12:30 PM', '2:30 PM', '9:25 AM', '1:21 AM', '8:45 AM', '10:30 AM', '10:40 AM', '8:20 AM', '9:35 AM', '3:20 PM', '9:28 AM', '8:15 AM', '2:50 PM', '9:15 AM', '7:40 AM'}
+Day 24 of month 10 missing hours {'9:30 AM', '8:30 AM', '8:40 AM', '2:20 PM', '7:15 AM', '12:30 PM', '2:30 PM', '9:25 AM', '1:21 AM', '8:45 AM', '10:30 AM', '10:40 AM', '8:20 AM', '9:35 AM', '3:20 PM', '9:28 AM', '8:15 AM', '2:50 PM', '9:15 AM', '7:35 AM', '7:40 AM'}
+Day 25 of month 10 missing hours {'9:30 AM', '8:30 AM', '8:40 AM', '2:20 PM', '7:15 AM', '12:30 PM', '2:30 PM', '9:25 AM', '1:21 AM', '8:45 AM', '10:30 AM', '10:40 AM', '8:20 AM', '9:35 AM', '3:20 PM', '9:28 AM', '8:15 AM', '2:50 PM', '9:15 AM', '7:35 AM', '7:40 AM'}
+Day 26 of month 10 missing hours {'9:30 AM', '8:30 AM', '8:40 AM', '2:20 PM', '7:15 AM', '12:30 PM', '2:30 PM', '9:25 AM', '1:21 AM', '8:45 AM', '10:30 AM', '10:40 AM', '8:20 AM', '9:35 AM', '3:20 PM', '9:28 AM', '8:15 AM', '2:50 PM', '9:15 AM', '7:35 AM', '7:40 AM'}
+Day 27 of month 10 missing hours {'9:30 AM', '8:30 AM', '8:40 AM', '2:20 PM', '7:15 AM', '8:35 AM', '12:30 PM', '2:30 PM', '9:25 AM', '1:21 AM', '8:45 AM', '10:30 AM', '10:40 AM', '7:05 AM', '8:20 AM', '9:35 AM', '8:05 AM', '3:20 PM', '9:28 AM', '8:15 AM', '9:14 AM', '2:50 PM', '5:47 AM', '9:15 AM', '7:35 AM', '7:40 AM'}
+Day 28 of month 10 missing hours {'9:30 AM', '8:30 AM', '8:40 AM', '2:20 PM', '7:15 AM', '8:35 AM', '12:30 PM', '2:30 PM', '9:25 AM', '1:21 AM', '8:45 AM', '10:30 AM', '10:40 AM', '7:05 AM', '8:20 AM', '9:35 AM', '8:05 AM', '3:20 PM', '9:28 AM', '8:15 AM', '9:14 AM', '2:50 PM', '5:47 AM', '9:15 AM', '7:35 AM', '7:40 AM'}
+Day 30 of month 10 missing hours {'9:30 AM', '8:30 AM', '8:40 AM', '2:20 PM', '7:15 AM', '8:35 AM', '12:30 PM', '2:30 PM', '9:25 AM', '1:21 AM', '8:45 AM', '10:30 AM', '10:40 AM', '7:05 AM', '8:20 AM', '9:35 AM', '8:05 AM', '3:20 PM', '9:28 AM', '8:15 AM', '9:14 AM', '2:50 PM', '5:47 AM', '9:15 AM', '7:35 AM', '7:40 AM'}
+Day 31 of month 10 missing hours {'9:30 AM', '8:30 AM', '8:40 AM', '2:20 PM', '7:15 AM', '8:35 AM', '12:30 PM', '2:30 PM', '9:25 AM', '1:21 AM', '8:45 AM', '10:30 AM', '10:40 AM', '7:05 AM', '8:20 AM', '9:35 AM', '8:05 AM', '3:20 PM', '9:28 AM', '8:15 AM', '9:14 AM', '2:50 PM', '5:47 AM', '9:15 AM', '7:35 AM', '7:40 AM'}
+Month 10 is missing days {'23', '22', '21', '29'}
+c:\Users\haley\1013\1.013_capstone\energy_consumption\weather_scraper.py:136: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['date'][i] = f'{month}/{day}/{year}'
+Day 1 of month 11 missing hours set()
+Day 2 of month 11 missing hours {'8:10 AM', nan}
+Day 3 of month 11 missing hours {'8:10 AM', '9:40 AM', nan}
+Day 4 of month 11 missing hours {'6:50 AM', nan, '8:10 AM', '6:40 AM', '9:40 AM'}
+Day 5 of month 11 missing hours {'6:50 AM', nan, '8:10 AM', '6:40 AM', '9:40 AM'}
+Day 6 of month 11 missing hours {'6:50 AM', nan, '8:10 AM', '6:40 AM', '9:40 AM'}
+Day 7 of month 11 missing hours {'6:50 AM', nan, '9:15 AM', '8:10 AM', '6:40 AM', '9:40 AM'}
+Day 8 of month 11 missing hours {'6:50 AM', '9:25 AM', nan, '9:15 AM', '7:35 AM', '8:10 AM', '6:40 AM', '9:40 AM', '6:30 AM'}
+Day 9 of month 11 missing hours {'6:50 AM', '9:25 AM', nan, '9:15 AM', '7:35 AM', '10:20 AM', '8:10 AM', '6:40 AM', '12:20 AM', '9:40 AM', '6:30 AM'}Day 10 of month 11 missing hours {'6:50 AM', '9:25 AM', nan, '9:15 AM', '7:35 AM', '10:20 AM', '8:10 AM', '6:40 AM', '12:20 AM', '9:40 AM', '6:30 AM'}
+Day 11 of month 11 missing hours {'6:50 AM', '9:25 AM', nan, '9:15 AM', '7:35 AM', '10:20 AM', '8:10 AM', '6:40 AM', '12:20 AM', '9:40 AM', '6:30 AM'}
+Day 12 of month 11 missing hours {'6:50 AM', '9:25 AM', nan, '9:45 AM', '9:30 AM', '9:15 AM', '7:35 AM', '10:20 AM', '8:40 AM', '8:10 AM', '6:40 AM', '8:20 AM', '12:20 AM', '9:40 AM', '6:30 AM'}
+Day 13 of month 11 missing hours {'6:50 AM', '9:25 AM', nan, '9:45 AM', '9:30 AM', '9:15 AM', '7:35 AM', '10:20 AM', '8:40 AM', '8:10 AM', '6:40 AM', '8:20 AM', '12:20 AM', '9:40 AM', '6:30 AM'}
+Day 14 of month 11 missing hours {'6:50 AM', '9:25 AM', nan, '9:45 AM', '9:30 AM', '9:15 AM', '7:35 AM', '10:20 AM', '8:40 AM', '8:10 AM', '6:40 AM', '8:20 AM', '12:20 AM', '9:40 AM', '6:30 AM'}
+Day 15 of month 11 missing hours {'6:50 AM', '9:25 AM', nan, '9:45 AM', '9:30 AM', '9:15 AM', '7:35 AM', '10:20 AM', '8:40 AM', '8:10 AM', '6:40 AM', '8:20 AM', '12:20 AM', '9:40 AM', '6:30 AM'}
+Day 16 of month 11 missing hours {'6:50 AM', '9:25 AM', nan, '9:45 AM', '9:30 AM', '9:15 AM', '7:35 AM', '10:20 AM', '8:40 AM', '8:10 AM', '6:40 AM', '8:20 AM', '12:20 AM', '9:40 AM', '6:30 AM'}
+Day 17 of month 11 missing hours {'6:50 AM', '9:25 AM', nan, '9:45 AM', '9:30 AM', '9:15 AM', '7:35 AM', '10:20 AM', '8:40 AM', '8:10 AM', '6:40 AM', '8:20 AM', '12:20 AM', '9:40 AM', '6:30 AM'}
+Day 18 of month 11 missing hours {'6:50 AM', '9:25 AM', nan, '9:45 AM', '9:30 AM', '9:15 AM', '7:35 AM', '10:20 AM', '8:40 AM', '8:10 AM', '6:40 AM', '8:20 AM', '12:20 AM', '9:40 AM', '6:30 AM'}
+Day 19 of month 11 missing hours {'6:50 AM', '9:25 AM', nan, '9:45 AM', '9:30 AM', '9:15 AM', '7:35 AM', '7:30 AM', '10:20 AM', '8:40 AM', '8:10 AM', '6:40 AM', '8:20 AM', '12:20 AM', '9:40 AM', '6:30 AM'}
+Day 20 of month 11 missing hours {nan, '11:11 AM', '9:30 AM', '10:20 AM', '8:40 AM', '6:40 AM', '9:40 AM', '6:30 AM', '7:30 AM', '8:10 AM', '12:39 PM', '6:50 AM', '9:25 AM', '9:45 AM', '6:50 PM', '8:20 AM', '12:20 AM', '9:39 AM', '9:15 AM', '6:20 PM', '7:35 AM'}
+Day 21 of month 11 missing hours {nan, '11:11 AM', '9:30 AM', '10:20 AM', '8:40 AM', '6:40 AM', '9:40 AM', '6:30 AM', '7:30 AM', '8:10 AM', '12:39 PM', '6:50 AM', '9:25 AM', '9:45 AM', '6:50 PM', '8:20 AM', '12:20 AM', '9:39 AM', '9:15 AM', '6:20 PM', '7:35 AM'}
+Day 22 of month 11 missing hours {nan, '11:11 AM', '9:30 AM', '10:20 AM', '8:40 AM', '6:40 AM', '9:40 AM', '6:30 AM', '7:30 AM', '8:10 AM', '8:35 AM', '12:39 PM', '6:50 AM', '9:25 AM', '9:45 AM', '6:50 PM', '8:20 AM', '12:20 AM', '9:35 AM', '9:39 AM', '9:15 AM', '6:20 PM', '7:35 AM'}
+Day 23 of month 11 missing hours {nan, '11:11 AM', '9:30 AM', '10:20 AM', '8:40 AM', '6:40 AM', '9:40 AM', '6:30 AM', '10:10 AM', '7:30 AM', '8:10 AM', '8:35 AM', '12:39 PM', '6:50 AM', '9:25 AM', '6:15 AM', '9:45 AM', '6:50 PM', '8:20 AM', '12:20 AM', '9:35 AM', '6:35 AM', '9:39 AM', '9:15 AM', '6:20 PM', '7:35 AM', '10:45 AM'}
+Day 24 of month 11 missing hours {nan, '11:11 AM', '9:30 AM', '10:20 AM', '8:40 AM', '6:40 AM', '9:40 AM', '6:30 AM', '8:08 AM', '10:10 AM', '7:30 AM', '8:10 AM', '8:35 AM', '12:39 PM', '6:50 AM', '9:25 AM', '6:15 AM', '9:45 AM', '6:50 PM', '8:20 AM', '12:20 AM', '9:35 AM', '6:35 AM', '9:39 AM', '9:15 AM', '6:20 PM', '7:35 AM', '10:45 AM'}
+Day 25 of month 11 missing hours {nan, '11:11 AM', '9:30 AM', '10:20 AM', '8:40 AM', '6:40 AM', '9:40 AM', '6:30 AM', '8:08 AM', '10:10 AM', '10:16 AM', '7:30 AM', '8:10 AM', '8:35 AM', '12:39 PM', '6:50 AM', '9:25 AM', '6:15 AM', '9:45 AM', '6:50 PM', '8:20 AM', '12:20 AM', '9:35 AM', '6:35 AM', 
+'9:39 AM', '9:15 AM', '6:20 PM', '7:35 AM', '10:45 AM'}
+Day 26 of month 11 missing hours {nan, '11:11 AM', '9:30 AM', '10:20 AM', '8:40 AM', '6:40 AM', '9:40 AM', '6:30 AM', '8:08 AM', '10:10 AM', '10:16 AM', '7:30 AM', '8:10 AM', '8:35 AM', '12:39 PM', '10:35 AM', '6:50 AM', '9:25 AM', '6:15 AM', '9:45 AM', '6:50 PM', '8:20 AM', '12:20 AM', '9:35 AM', '6:35 AM', '9:39 AM', '9:15 AM', '6:20 PM', '7:35 AM', '10:45 AM'}
+Day 27 of month 11 missing hours {nan, '11:11 AM', '9:30 AM', '10:20 AM', '8:40 AM', '6:40 AM', '9:40 AM', '6:30 AM', '8:08 AM', '10:10 AM', '10:16 AM', '7:30 AM', '8:10 AM', '8:35 AM', '12:39 PM', '10:35 AM', '6:50 AM', '9:25 AM', '6:15 AM', '9:45 AM', '1:42 AM', '10:15 AM', '6:50 PM', '8:20 AM', '12:20 AM', '9:35 AM', '6:35 AM', '9:39 AM', '9:15 AM', '6:20 PM', '7:35 AM', '10:45 AM'}
+Day 28 of month 11 missing hours {nan, '11:11 AM', '9:30 AM', '10:20 AM', '8:40 AM', '6:40 AM', '9:40 AM', '6:30 AM', '8:08 AM', '10:10 AM', '10:16 AM', '7:30 AM', '8:10 AM', '8:35 AM', '12:39 PM', '9:16 AM', '10:35 AM', '6:50 AM', '9:25 AM', '6:15 AM', '9:45 AM', '1:42 AM', '10:15 AM', '6:50 PM', '8:20 AM', '12:20 AM', '9:35 AM', '6:35 AM', '9:39 AM', '9:15 AM', '6:20 PM', '7:35 AM', '10:45 AM'}
+Day 29 of month 11 missing hours {nan, '11:11 AM', '9:30 AM', '10:20 AM', '8:40 AM', '6:40 AM', '9:40 AM', '6:30 AM', '8:08 AM', '10:10 AM', '10:16 AM', '7:30 AM', '8:10 AM', '8:35 AM', '12:39 PM', '9:16 AM', '9:38 AM', '10:35 AM', '6:50 AM', '9:25 AM', '6:15 AM', '9:45 AM', '1:42 AM', '10:15 AM', '10:12 AM', '6:50 PM', '8:20 AM', '12:20 AM', '9:35 AM', '6:35 AM', '9:39 AM', '10:28 AM', '9:15 AM', '6:20 PM', '7:35 AM', '10:45 AM'}
+Day 30 of month 11 missing hours {nan, '11:11 AM', '9:30 AM', '10:20 AM', '8:40 AM', '6:40 AM', '9:40 AM', '6:30 AM', '8:08 AM', '10:10 AM', '10:16 AM', '7:30 AM', '8:10 AM', '8:35 AM', '12:39 PM', '9:16 AM', '9:38 AM', '10:35 AM', '6:50 AM', '9:25 AM', '6:15 AM', '9:45 AM', '1:42 AM', '10:15 AM', '10:12 AM', '6:50 PM', '8:20 AM', '12:20 AM', '9:35 AM', '6:35 AM', '9:39 AM', '10:28 AM', '9:15 AM', '6:20 PM', '7:35 AM', '10:45 AM'}
+c:\Users\haley\1013\1.013_capstone\energy_consumption\weather_scraper.py:136: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['date'][i] = f'{month}/{day}/{year}'
+Day 1 of month 12 missing hours set()
+Day 2 of month 12 missing hours set()
+Day 3 of month 12 missing hours {'10:25 AM'}
+Day 4 of month 12 missing hours {'10:25 AM'}
+Day 5 of month 12 missing hours {'10:25 AM'}
+Day 6 of month 12 missing hours {'10:25 AM', '10:55 AM', '11:12 AM'}
+Day 7 of month 12 missing hours {'10:55 AM', '11:40 AM', '10:25 AM', '11:25 AM', '2:45 AM', '11:12 AM'}
+Day 8 of month 12 missing hours {'10:55 AM', '11:40 AM', '10:25 AM', '11:25 AM', '2:45 AM', '11:12 AM'}
+Day 10 of month 12 missing hours {'10:55 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '8:30 PM', '2:45 AM', '11:12 AM'}
+Day 11 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '8:30 PM', '2:45 AM', '11:12 AM'}
+Day 12 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '8:30 PM', '2:45 AM', '11:12 AM'} 
+Day 13 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '8:30 PM', '2:45 AM', '11:12 AM'}
+Day 14 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '8:30 PM', '2:45 AM', '11:12 AM'} 
+Day 15 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '8:30 PM', '2:45 AM', '11:12 AM'}
+Day 16 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '8:30 PM', '2:45 AM', '11:12 AM'} 
+Day 17 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '8:30 PM', '2:45 AM', '11:12 AM'}
+Day 18 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '8:30 PM', '2:45 AM', '11:12 AM'} 
+Day 19 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '8:30 PM', '2:45 AM', '11:12 AM'}
+Day 20 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '8:30 PM', '2:45 AM', '11:12 AM'} 
+Day 21 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '8:30 PM', '2:45 AM', '11:12 AM'}
+Day 22 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '8:30 PM', '2:45 AM', '11:12 AM'} 
+Day 23 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '8:30 PM', '2:45 AM', '11:12 AM'}
+Day 24 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '8:30 PM', '2:45 AM', '11:12 AM'} 
+Day 25 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '8:30 PM', '2:45 AM', '11:12 AM'} 
+Day 26 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '8:30 PM', '2:45 AM', '11:12 AM'}
+Day 27 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '8:30 PM', '2:45 AM', '11:12 AM'} 
+Day 28 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '11:30 AM', '8:30 PM', '5:35 PM', 
+'2:45 AM', '11:12 AM'}
+Day 29 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '6:45 PM', '11:30 AM', '8:30 PM', 
+'5:35 PM', '2:45 AM', '9:40 AM', '11:12 AM'}
+Day 30 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '6:45 PM', '11:30 AM', '8:30 PM', 
+'5:35 PM', '2:45 AM', '9:40 AM', '11:12 AM'}
+Day 31 of month 12 missing hours {'8:38 AM', '10:55 AM', '8:15 AM', '11:40 AM', '10:25 AM', '11:25 AM', '7:10 PM', '6:45 PM', '11:30 AM', '8:30 PM', 
+'5:35 PM', '2:45 AM', '9:40 AM', '11:12 AM'}
+Month 12 is missing days {'9'}
