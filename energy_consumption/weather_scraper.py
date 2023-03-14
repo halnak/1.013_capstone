@@ -9,8 +9,9 @@ from selenium.webdriver.support import expected_conditions as EC
 '''
 To Do:
 Address log errors (see errors.txt)
+    Re-mine dates that were missing
+    What to do about hours that are missing?
 Combine into one csv for processing
-Fix date formatting (resave .csv's)
 '''
 
 
@@ -126,45 +127,76 @@ def get_year_data(year):
 
 def verification_log(year):
     for month in range(1, 13):
-        df = pd.read_csv(f'laayoune_weather_data_month{month}.csv')
+        df = pd.read_csv(f'energy_consumption/monthly_data_og/laayoune_weather_data_month{month}.csv')
         # print(df)
         rows, _ = df.shape
 
         days = set()
         hours = set()
-        cur_day = 1
+        cur_day = str(1)
         day_ind = 0
 
         for i in range(rows):
-            day = df['date'][i]
+            day = df.at[i, 'date']
+            day_ind += 1
 
             if len(day.split("/")) < 3:
                 day = day.split("/")[0]
-                days.add(day)
 
-                df['date'][i] = f'{month}/{day}/{year}'
+                df.at[i, 'date'] = f'{month}/{day}/{year}'
             else:
                 day = day.split("/")[1]
-                days.add(day)
-
-            hour = df['time'][i]
-            hours.add(hour)
 
             if day != cur_day:
-                if day_ind != 24:
-                    missing_hours = hours - all_hours
-                    print(f'Day {day} of month {month} missing hours {missing_hours}')
+                if len(hours) != 24:
+                    missing_hours = all_hours - hours
+                    print(f'Day {cur_day} of month {month} missing hours {missing_hours}')
                 cur_day = day
+                days.add(day)
+                hours = set()
+                day_ind = 1
+
+            hour = df.at[i, 'time']
+            hours.add(hour)
 
         if len(days) != days_in_month[month]:
             correct = set([str(i) for i in range(1, days_in_month[month]+1)])
             print(f'Month {month} is missing days {correct - days}')
+        days = set()
+
+
+def reformat_date(year):
+    for month in range(1, 13):
+        df = pd.read_csv(f'energy_consumption/monthly_data_og/laayoune_weather_data_month{month}.csv')
+        df = df.loc[:, 'date':]
+        rows, _ = df.shape
+
+        for i in range(rows):
+            day = df.at[i, 'date']
+
+            if len(day.split("/")) < 3:
+                day = day.split("/")[0]
+
+                df.at[i, 'date'] = f'{month}/{day}/{year}'
+            else:
+                day = day.split("/")[1]
+        
+        df.to_csv(f'laayoune_weather_data_month{month}_fixed.csv')
+
+
+def mine_errors():
+    raise Exception('Not implemented yet')
+
+
+def combine_all():
+    raise Exception('Not implemented yet')
 
 
 def main():
     year = 2022
     # get_year_data(2022)
     verification_log(year)
+    # reformat_date(year)
 
 
 if __name__ == "__main__":

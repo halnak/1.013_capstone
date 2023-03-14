@@ -1,9 +1,3 @@
-Day 1 of month 1 missing hours set()
-Day 2 of month 1 missing hours set()
-Day 3 of month 1 missing hours set()
-Day 4 of month 1 missing hours set()
-Day 5 of month 1 missing hours set()
-Day 6 of month 1 missing hours set()
 Day 7 of month 1 missing hours {'3:35 PM'}
 Day 8 of month 1 missing hours {'3:35 PM'}
 Day 9 of month 1 missing hours {'9:22 AM', '3:35 PM', '8:30 AM', '2:10 PM', '8:10 AM'}
