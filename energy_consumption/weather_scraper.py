@@ -1,19 +1,8 @@
 import pandas as pd
-
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
-
-'''
-To Do:
-Address log errors (see errors.txt)
-    Re-mine dates that were missing
-    What to do about hours that are missing?
-Combine into one csv for processing
-'''
-
 
 days_in_month = {
     1: 31,
@@ -40,13 +29,6 @@ def get_sel(url):
     driver = webdriver.Chrome()
     driver.get(url)
 
-    # # Get whole table
-    # element = WebDriverWait(driver, 10).until(
-    #     EC.presence_of_element_located((By.XPATH, "//table"))
-    # )   
-    # print('Table: ', element)
-
-    # Get elements from every row
     times = []
     temps = []
     hums = []
@@ -54,7 +36,7 @@ def get_sel(url):
     conds = []
 
     try:
-        for i in range(1, 25):
+        for i in range(1, 50):
             time_el = WebDriverWait(driver, 15).until(
                 EC.presence_of_element_located((By.XPATH, "//table/tbody/tr[" + str(i) + "]/td[1]/span"))
             )
@@ -106,7 +88,7 @@ def get_monthly_data(year, month):
         except:
             print(f'Stopped on day {day} of month {month}')
             continue
-        df['date'] += [f'{day}/{month}{year}']*len(times)
+        df['date'] += [f'{month}/{day}/{year}']*len(times)
         df['time'] += times
         df['temp'] += temps
         df['hum'] += hums
@@ -127,7 +109,7 @@ def get_year_data(year):
 
 def verification_log(year):
     for month in range(1, 13):
-        df = pd.read_csv(f'energy_consumption/monthly_data_og/laayoune_weather_data_month{month}.csv')
+        df = pd.read_csv(f'energy_consumption/monthly_data_reformatted/laayoune_weather_data_month{month}_fixed.csv')
         # print(df)
         rows, _ = df.shape
 
@@ -140,15 +122,10 @@ def verification_log(year):
             day = df.at[i, 'date']
             day_ind += 1
 
-            if len(day.split("/")) < 3:
-                day = day.split("/")[0]
-
-                df.at[i, 'date'] = f'{month}/{day}/{year}'
-            else:
-                day = day.split("/")[1]
+            day = day.split("/")[1]
 
             if day != cur_day:
-                if len(hours) != 24:
+                if hours != all_hours:
                     missing_hours = all_hours - hours
                     print(f'Day {cur_day} of month {month} missing hours {missing_hours}')
                 cur_day = day
@@ -176,20 +153,11 @@ def reformat_date(year):
 
             if len(day.split("/")) < 3:
                 day = day.split("/")[0]
-
                 df.at[i, 'date'] = f'{month}/{day}/{year}'
             else:
                 day = day.split("/")[1]
         
         df.to_csv(f'laayoune_weather_data_month{month}_fixed.csv')
-
-
-def mine_errors():
-    raise Exception('Not implemented yet')
-
-
-def combine_all():
-    raise Exception('Not implemented yet')
 
 
 def main():

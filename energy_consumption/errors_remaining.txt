@@ -1,3 +1,103 @@
+Newest:
+Day 8 of month 1 missing hours {'4:00 PM', '10:00 PM', '11:00 PM', '9:00 PM'}
+Day 12 of month 1 missing hours {'10:00 PM', '4:00 AM', '11:00 PM', '9:00 PM'}
+Day 16 of month 1 missing hours {'8:00 PM', '10:00 PM', '11:00 PM', '9:00 PM'}
+Day 17 of month 1 missing hours {'9:00 PM', '8:00 PM', '10:00 PM', '11:00 PM', '7:00 PM'}
+Day 18 of month 1 missing hours {'11:00 PM'}
+Day 21 of month 1 missing hours {'10:00 PM', '11:00 PM'}
+Day 22 of month 1 missing hours {'9:00 PM', '8:00 PM', '6:00 PM', '10:00 PM', '11:00 PM', '5:00 PM', '7:00 PM'}
+Day 23 of month 1 missing hours {'10:00 PM', '11:00 PM'}
+Day 24 of month 1 missing hours {'10:00 PM', '11:00 PM'}
+Day 28 of month 1 missing hours {'10:00 PM', '11:00 PM', '9:00 PM'}
+Day 29 of month 1 missing hours {'10:00 PM', '11:00 PM', '9:00 PM'}
+Day 6 of month 2 missing hours {'10:00 PM', '11:00 PM'}
+Day 8 of month 2 missing hours {'3:00 PM', '9:00 PM', '8:00 PM', '10:00 PM', '11:00 PM'}
+Day 14 of month 2 missing hours {'9:00 PM', '8:00 PM', '6:00 PM', '10:00 PM', '11:00 PM', '7:00 PM'}
+Day 21 of month 2 missing hours {'10:00 PM', '11:00 PM'}
+Day 23 of month 2 missing hours {'9:00 PM', '8:00 PM', '10:00 PM', '11:00 PM', '7:00 PM'}
+Day 27 of month 2 missing hours {'11:00 PM'}
+Day 15 of month 3 missing hours {'10:00 PM', '11:00 PM'}
+Day 17 of month 3 missing hours {'11:00 PM'}
+Day 18 of month 3 missing hours {'11:00 PM'}
+Day 24 of month 3 missing hours {'4:00 PM', '9:00 PM', '8:00 PM', '6:00 PM', '10:00 PM', '11:00 PM', '5:00 PM', '7:00 PM'}
+Day 28 of month 3 missing hours {'2:00 PM', '11:00 PM', '12:00 AM'}
+Day 4 of month 4 missing hours {'10:00 PM', '11:00 PM', '12:00 AM'}
+Day 16 of month 4 missing hours {'10:00 PM', '11:00 PM', '12:00 AM'}
+Day 5 of month 5 missing hours {'11:00 PM', '12:00 AM'}
+Day 8 of month 5 missing hours {'12:00 AM', '12:00 PM', '11:00 AM', '6:00 PM', '7:00 PM', '11:00 PM', '5:00 PM', '5:00 AM', '7:00 AM', '3:00 PM', '2:00 PM', '6:00 AM', '1:00 PM', '9:00 PM', '8:00 PM', '8:00 AM', '4:00 AM', '3:00 AM', '10:00 PM', '10:00 AM', '9:00 AM', '4:00 PM'}
+Day 10 of month 5 missing hours {'12:00 PM', '11:00 AM'}
+Day 12 of month 5 missing hours {'11:00 PM'}
+Day 1 of month 6 missing hours {'11:00 PM'}
+Day 8 of month 6 missing hours {'11:00 PM'}
+Day 9 of month 6 missing hours {'11:00 PM'}
+Day 17 of month 6 missing hours {'10:00 PM', '11:00 PM'}
+Day 18 of month 6 missing hours {'11:00 PM'}
+Day 14 of month 7 missing hours {'5:00 AM', '11:00 PM', '3:00 AM'}
+Day 18 of month 7 missing hours {'10:00 PM', '11:00 PM'}
+Day 19 of month 7 missing hours {'11:00 PM'}
+Day 21 of month 7 missing hours {'11:00 PM', '12:00 AM'}
+Day 22 of month 7 missing hours {'10:00 PM', '5:00 PM', '11:00 PM'}
+Day 23 of month 7 missing hours {'10:00 PM', '11:00 PM'}
+Day 29 of month 7 missing hours {'10:00 PM', '11:00 PM'}
+Day 3 of month 8 missing hours {'10:00 PM', '11:00 PM', '9:00 PM'}
+Day 7 of month 8 missing hours {'11:00 PM'}
+Day 8 of month 8 missing hours {'11:00 PM'}
+Day 22 of month 8 missing hours {'9:00 PM', '8:00 PM', '6:00 PM', '10:00 PM', '11:00 PM', '7:00 PM'}
+Day 24 of month 8 missing hours {'10:00 PM', '11:00 PM', '9:00 PM'}
+Day 25 of month 8 missing hours {'11:00 PM'}
+Day 1 of month 9 missing hours {'10:00 PM', '11:00 PM', '9:00 PM'}
+Day 2 of month 9 missing hours {'11:00 PM'}
+Day 6 of month 9 missing hours {'10:00 PM', '11:00 PM'}
+Day 7 of month 9 missing hours {'11:00 PM'}
+Day 8 of month 9 missing hours {'11:00 PM'}
+Day 9 of month 9 missing hours {'11:00 PM'}
+Day 13 of month 9 missing hours {'10:00 PM', '11:00 PM'}
+Day 14 of month 9 missing hours {'10:00 PM', '11:00 PM'}
+Day 18 of month 9 missing hours {'10:00 PM', '11:00 PM'}
+Day 20 of month 9 missing hours {'1:00 PM', '9:00 PM', '12:00 PM', '10:00 PM', '11:00 PM'}
+Day 22 of month 9 missing hours {'10:00 PM', '11:00 PM'}
+Day 24 of month 9 missing hours {'11:00 PM'}
+Day 27 of month 9 missing hours {'11:00 PM'}
+Day 28 of month 9 missing hours {'11:00 PM'}
+Day 1 of month 10 missing hours {'11:00 PM'}
+Day 2 of month 10 missing hours {'10:00 PM', '11:00 PM'}
+Day 3 of month 10 missing hours {'11:00 PM'}
+Day 5 of month 10 missing hours {'11:00 PM'}
+Day 7 of month 10 missing hours {'11:00 PM'}
+Day 9 of month 10 missing hours {'11:00 PM'}
+Day 15 of month 10 missing hours {'8:00 PM', '10:00 PM', '11:00 PM', '9:00 PM'}
+Day 16 of month 10 missing hours {'11:00 PM'}
+Day 18 of month 10 missing hours {'9:00 PM', '8:00 PM', '6:00 PM', '10:00 PM', '11:00 PM', '7:00 PM'}
+Day 19 of month 10 missing hours {'4:00 AM', '11:00 PM'}
+Day 20 of month 10 missing hours {'3:00 PM', '4:00 PM', '9:00 PM', '8:00 PM', '6:00 PM', '10:00 PM', '11:00 PM', '5:00 PM', '7:00 PM'}
+Day 25 of month 10 missing hours {'10:00 PM', '11:00 PM'}
+Day 26 of month 10 missing hours {'9:00 PM', '8:00 PM', '6:00 PM', '10:00 PM', '11:00 PM', '7:00 PM'}
+Day 1 of month 11 missing hours {'3:00 PM', '4:00 PM', '2:00 PM', '1:00 PM', '9:00 PM', '12:00 PM', '8:00 PM', '11:00 AM', '6:00 PM', '10:00 PM', '5:00 PM', '10:00 AM', '9:00 AM', '11:00 PM', '7:00 PM'}
+Day 2 of month 11 missing hours {'11:00 PM'}
+Day 3 of month 11 missing hours {'2:00 AM', '11:00 PM'}
+Day 6 of month 11 missing hours {'6:00 AM', '11:00 PM'}
+Day 7 of month 11 missing hours {'8:00 PM', '10:00 PM', '11:00 PM', '9:00 PM'}
+Day 8 of month 11 missing hours {'10:00 PM', '11:00 PM'}
+Day 11 of month 11 missing hours {'8:00 PM', '10:00 PM', '11:00 PM', '9:00 PM'}
+Day 18 of month 11 missing hours {'11:00 PM'}
+Day 19 of month 11 missing hours {'9:00 PM', '8:00 PM', '10:00 PM', '11:00 PM', '7:00 PM'}
+Day 21 of month 11 missing hours {'10:00 PM', '11:00 PM'}
+Day 22 of month 11 missing hours {'9:00 PM', '12:00 PM', '8:00 PM', '10:00 PM', '11:00 PM'}
+Day 23 of month 11 missing hours {'11:00 PM'}
+Day 24 of month 11 missing hours {'11:00 PM'}
+Day 25 of month 11 missing hours {'11:00 PM'}
+Day 26 of month 11 missing hours {'10:00 PM', '11:00 PM'}
+Day 27 of month 11 missing hours {'10:00 PM', '11:00 PM', '9:00 PM'}
+Day 28 of month 11 missing hours {'10:00 PM', '4:00 AM', '11:00 PM', '9:00 PM'}
+Day 2 of month 12 missing hours {'11:00 PM'}
+Day 5 of month 12 missing hours {'10:00 PM', '11:00 PM'}
+Day 6 of month 12 missing hours {'5:00 AM', '10:00 PM', '11:00 PM'}
+Day 8 of month 12 missing hours {'10:00 PM', '11:00 PM'}
+Day 10 of month 12 missing hours {'10:00 PM', '11:00 PM'}
+Day 27 of month 12 missing hours {'10:00 PM', '11:00 PM'}
+Day 28 of month 12 missing hours {'10:00 PM', '11:00 PM'}
+
+
 Day 3 of month 1 missing hours {'4:00 AM'}
 Day 6 of month 1 missing hours {'10:00 AM', '1:00 PM', '11:00 AM', '12:00 PM'}
 Day 1 of month 2 missing hours {'1:00 AM', '3:00 AM', '2:00 AM'}
@@ -79,3 +179,5 @@ Day 15 of month 12 missing hours {'8:00 PM'}
 Day 21 of month 12 missing hours {'1:00 AM', '12:00 AM'}
 Day 24 of month 12 missing hours {'8:00 AM', '4:00 AM', '3:00 AM', '5:00 AM'}
 Month 12 is missing days {'9'}
+
+Left off looking for missing data on January 16
